@@ -1,7 +1,8 @@
 # SIIM-ISIC-Melanoma-classification-Kaggle-challange
 
+<pre>
 <img src="imgs/__results___11_1.png" width="900"> <img src="imgs/__results___12_1.png" width="900"> <img src="imgs/__results___16_1.png" width="900"> <img src="imgs/Screenshot (1000).png" width="900"> <img src="imgs/Screenshot (1001).png" width="900"><img src="imgs/Screenshot (1002).png" width="900"><img src="imgs/Screenshot (1003).png" width="900">
-
+</pre>
 
 ## Model structure for VGG:
 ```python
