@@ -1,7 +1,13 @@
 # SIIM-ISIC-Melanoma-classification-Kaggle-challange
 
 ## plotted images
-1> is malignent images, 2> is benign images,3> inpainted images(after hair removal)4> anatom_site_general_challenge pi chart, 5> count of age approx, 6> count of diagnosis and many more in the notebooks.
+1. is malignent images, 
+2. is benign images,
+3. inpainted images(after hair removal)
+4. anatom_site_general_challenge pi chart,
+5. count of age approx, 6> count of diagnosis and many more in the notebooks.
+
+<br>
 <pre>
 <img src="imgs/__results___11_1.png" width="900"> <img src="imgs/__results___12_1.png" width="900"> <img src="imgs/__results___16_1.png" width="900"> <img src="imgs/Screenshot (1000).png" width="900"> <img src="imgs/Screenshot (1001).png" width="900"><img src="imgs/Screenshot (1002).png" width="900"><img src="imgs/Screenshot (1003).png" width="900">
 </pre>
