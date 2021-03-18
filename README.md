@@ -5,7 +5,8 @@
 2. is benign images,
 3. inpainted images(after hair removal)
 4. anatom_site_general_challenge pi chart,
-5. count of age approx, 6> count of diagnosis and many more in the notebooks.
+5. count of age approx, 
+6. count of diagnosis and many more in the notebooks.
 
 <br>
 <pre>
